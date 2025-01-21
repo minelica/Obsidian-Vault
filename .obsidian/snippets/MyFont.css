@@ -1,0 +1,13 @@
+/* Set fonts for both Edit and Preview mode
+.view-content {
+  font-family: 'Courier New', monospace !important;
+}
+*/
+
+.markdown-source-view {
+    font-family: 'JetBrainsMono Nerd Font', Menlo, Monaco, 'Courier New', monospace !important;
+}
+  
+.markdown-preview-view {
+    font-family: 'JetBrainsMono Nerd Font', Menlo, Monaco, 'Courier New', monospace !important;
+}

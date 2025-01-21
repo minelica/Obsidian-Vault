@@ -1,0 +1,199 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "RiCodeBoxFill",
+      "FabGitlab",
+      "FasKitchenSet",
+      "FasC",
+      "RiAwardFill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": "::"
+  },
+  "00 Development": {
+    "iconName": "FasCode",
+    "iconColor": "#52eea3"
+  },
+  "00 Development/CSS": {
+    "iconName": "FabCss3Alt",
+    "iconColor": "#264de4"
+  },
+  "00 Development/Docker": {
+    "iconName": "FabDocker",
+    "iconColor": "#0db7ed"
+  },
+  "00 Development/Fedora": {
+    "iconName": "FabFedora",
+    "iconColor": "#0b57a4"
+  },
+  "00 Development/GitHub": {
+    "iconName": "FabGithub",
+    "iconColor": "#171515"
+  },
+  "00 Development/HTML": {
+    "iconName": "FabHtml5",
+    "iconColor": "#e4b14c"
+  },
+  "00 Development/Java": {
+    "iconName": "FabJava",
+    "iconColor": "#f89820"
+  },
+  "00 Development/JavaScript": {
+    "iconName": "RiJavascriptFill",
+    "iconColor": "#f0db4f"
+  },
+  "00 Development/To Do Dev": {
+    "iconName": "RiTodoFill",
+    "iconColor": "#179242"
+  },
+  "00 Development/TypeScript": {
+    "iconName": "FasT",
+    "iconColor": "#007acc"
+  },
+  "00 Development/Vue 3": {
+    "iconName": "RiVuejsFill",
+    "iconColor": "#41b883"
+  },
+  "01 DHBW Praxisphasen": {
+    "iconName": "RiBriefcase4Fill",
+    "iconColor": "#51e1e9"
+  },
+  "01 DHBW Praxisphasen/1. Praxisphase": {
+    "iconName": "RiAwardFill",
+    "iconColor": "#fcc404"
+  },
+  "01 DHBW Praxisphasen/2. Praxisphase": {
+    "iconName": "RiAwardFill",
+    "iconColor": "#fcc404"
+  },
+  "01 DHBW Praxisphasen/1. Praxisphase/Begriffe - 1. Praxisphase.md": "FasBookOpen",
+  "01 DHBW Praxisphasen/1. Praxisphase/Sortieralgorithmen": "RiSortAsc",
+  "01 DHBW Praxisphasen/1. Praxisphase/Threads": "FabThreads",
+  "01 DHBW Praxisphasen/1. Praxisphase/Sortieralgorithmen/Anpassen! Bubble Sort VS Quick Sort VS Merge Sort.md": "RiFilePaperLine",
+  "01 DHBW Praxisphasen/1. Praxisphase/Sortieralgorithmen/Bubble Sort - Aufgabe 1.md": "RiBubbleChartFill",
+  "01 DHBW Praxisphasen/1. Praxisphase/Sortieralgorithmen/Merge Sort - Aufgabe 3.md": "RiGitMergeFill",
+  "01 DHBW Praxisphasen/1. Praxisphase/Sortieralgorithmen/Quick Sort - Aufgabe 2.md": "RiBarChartFill",
+  "01 DHBW Praxisphasen/1. Praxisphase/Sortieralgorithmen/Quick Sort mit Array.md": "RiBarChartFill",
+  "01 DHBW Praxisphasen/1. Praxisphase/Threads/Aufzug Aufgabe (Multithreading).md": "FasElevator",
+  "01 DHBW Praxisphasen/1. Praxisphase/Threads/Producer-Consumer-Lösung mit Threads in Java.md": "RiMarkPenLine",
+  "01 DHBW Praxisphasen/1. Praxisphase/Threads/Thread - Aufgaben.md": "RiEditBoxFill",
+  "01 DHBW Praxisphasen/1. Praxisphase/Threads/Thread.md": "FasBook",
+  "02 DHBW Theoriephasen": {
+    "iconName": "FasBook",
+    "iconColor": "#54b6f8"
+  },
+  "02 DHBW Theoriephasen/1. Theoriephase": {
+    "iconName": "RiAwardFill",
+    "iconColor": "#fcc404"
+  },
+  "02 DHBW Theoriephasen/2. Theoriephase": {
+    "iconName": "RiAwardFill",
+    "iconColor": "#fcc404"
+  },
+  "02 DHBW Theoriephasen/2. Theoriephase/Algorithmen und Datenstrukturen": {
+    "iconName": "RiBarChartFill",
+    "iconColor": "#18f24e"
+  },
+  "02 DHBW Theoriephasen/2. Theoriephase/Betriebssysteme": {
+    "iconName": "RiComputerFill",
+    "iconColor": "#9d2ca5"
+  },
+  "02 DHBW Theoriephasen/2. Theoriephase/Englisch": {
+    "iconName": "FasLanguage",
+    "iconColor": "#dfce11"
+  },
+  "02 DHBW Theoriephasen/2. Theoriephase/Fortgeschrittene Programmierung": {
+    "iconName": "FasCode",
+    "iconColor": "#4257f0"
+  },
+  "02 DHBW Theoriephasen/2. Theoriephase/Grundlagen des wiss. Arbeitens II": {
+    "iconName": "RiFilePaper2Fill",
+    "iconColor": "#e8c721"
+  },
+  "02 DHBW Theoriephasen/2. Theoriephase/Handels- und Gesellschaftsrecht": {
+    "iconName": "RiScales3Fill",
+    "iconColor": "#e151c7"
+  },
+  "02 DHBW Theoriephasen/2. Theoriephase/Kommunikations- und Betriebssysteme": {
+    "iconName": "FasComputerMouse",
+    "iconColor": "#9ef92f"
+  },
+  "02 DHBW Theoriephasen/2. Theoriephase/Kosten- und Leistungsrechnung": {
+    "iconName": "RiSortNumberAsc",
+    "iconColor": "#c79ae4"
+  },
+  "02 DHBW Theoriephasen/2. Theoriephase/Logik und Algebra": {
+    "iconName": "FasCalculator",
+    "iconColor": "#52c8e5"
+  },
+  "02 DHBW Theoriephasen/2. Theoriephase/Systemanalyse und -entwurf": {
+    "iconName": "FasFolderTree",
+    "iconColor": "#7971ea"
+  },
+  "02 DHBW Theoriephasen/2. Theoriephase/Technik der Finanzbuchführung": {
+    "iconName": "RiNumbersFill",
+    "iconColor": "#4ff943"
+  },
+  "02 DHBW Theoriephasen/2. Theoriephase/Unix Linux": {
+    "iconName": "FabLinux",
+    "iconColor": "#223aec"
+  },
+  "04 Images": {
+    "iconName": "RiImageFill",
+    "iconColor": "#9446f8"
+  },
+  "05 Online Courses": {
+    "iconName": "RiGraduationCapLine",
+    "iconColor": "#e6a2fb"
+  },
+  "02 DHBW Theoriephasen/1. Theoriephase/Grundlagen der IT": {
+    "iconName": "FasComputer",
+    "iconColor": "#31f2db"
+  },
+  "06 Self-Growth": {
+    "iconName": "RiHandHeartFill",
+    "iconColor": "#e54f9b"
+  },
+  "03 Excalidraw": {
+    "iconName": "FasPencil",
+    "iconColor": "#437cf3"
+  },
+  "02 DHBW Theoriephasen/3. Theoriephase": {
+    "iconName": "RiAwardFill",
+    "iconColor": "#fcc404"
+  },
+  "00 Development/C Sharp": {
+    "iconName": "FasC",
+    "iconColor": "#4b175e"
+  },
+  "07 Kitchen Nightmares": "FasKitchenSet",
+  "01 DHBW Praxisphasen/3. Praxisphase": {
+    "iconName": "RiAwardFill",
+    "iconColor": "#fcc404"
+  },
+  "00 Development/GitLab": {
+    "iconName": "FabGitlab",
+    "iconColor": "#e0600b"
+  },
+  "00 Development/Shell Script": {
+    "iconName": "RiCodeBoxFill",
+    "iconColor": "#696969"
+  }
+}

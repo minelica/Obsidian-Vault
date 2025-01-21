@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "45c258fe829dcfc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b0b25636919a6da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a1f95a10d9e4e56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Development/To Do Dev/30-Tage-Plan.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "30-Tage-Plan"
+            }
+          },
+          {
+            "id": "458086e9d916d9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 DHBW Praxisphasen/3. Praxisphase/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "f895949a45fec9be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 DHBW Praxisphasen/3. Praxisphase/Begriffe 3. Praxisphase.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Begriffe 3. Praxisphase"
+            }
+          },
+          {
+            "id": "98ba7431e6792f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 DHBW Praxisphasen/3. Praxisphase/ix/Erweiterung für Gradle Version.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Erweiterung für Gradle Version"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d00028d947090b6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "34b9a7e66daab53c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89249d4b12aceb1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a53bce0db7600cea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "651e0d42d4915a6b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d103d7a026bd2f41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 DHBW Theoriephasen/2. Theoriephase/Fortgeschrittene Programmierung/07 updateModel & updateView Methoden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07 updateModel & updateView Methoden"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273.5
+  },
+  "right": {
+    "id": "259bbe8269c71cd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "293f7b10c319772d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c853ae231c451ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 DHBW Theoriephasen/3. Theoriephase/Software Ergonomie/Problem und Zielgruppen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Problem und Zielgruppen"
+            }
+          },
+          {
+            "id": "8d038e3d102a969b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 DHBW Theoriephasen/3. Theoriephase/Software Ergonomie/Problem und Zielgruppen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Problem und Zielgruppen"
+            }
+          },
+          {
+            "id": "2ac604765d1a7b9a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dc7684ca23c74bde",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 DHBW Theoriephasen/3. Theoriephase/Software Ergonomie/Problem und Zielgruppen.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Problem und Zielgruppen"
+            }
+          },
+          {
+            "id": "055ae9f2f78920b3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "759807801d58a797",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 277.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "janitor:Janitor: scan vault": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "458086e9d916d9af",
+  "lastOpenFiles": [
+    "01 DHBW Praxisphasen/3. Praxisphase/Begriffe 3. Praxisphase.md",
+    "01 DHBW Praxisphasen/3. Praxisphase/Notes.md",
+    "01 DHBW Praxisphasen/3. Praxisphase/Grundregeln Arbeitssicherheit LAPID.md",
+    "01 DHBW Praxisphasen/3. Praxisphase/ix/img/Pasted image 20250116085038.png",
+    "01 DHBW Praxisphasen/3. Praxisphase/ix/img/Pasted image 20250116084903.png",
+    "01 DHBW Praxisphasen/3. Praxisphase/ix/img/Pasted image 20250116091743.png",
+    "01 DHBW Praxisphasen/3. Praxisphase/ix/img/Pasted image 20250116091653.png",
+    "01 DHBW Praxisphasen/3. Praxisphase/ix/img/Pasted image 20250116091553.png",
+    "01 DHBW Praxisphasen/3. Praxisphase/ix/img/Pasted image 20250116091537.png",
+    "01 DHBW Praxisphasen/3. Praxisphase/ix/img/Pasted image 20250116091345.png",
+    "01 DHBW Praxisphasen/3. Praxisphase/ix/img/Pasted image 20250116091222.png",
+    "01 DHBW Praxisphasen/3. Praxisphase/ix/img/Pasted image 20250116091129.png",
+    "01 DHBW Praxisphasen/3. Praxisphase/ix/img/Pasted image 20250116091001.png",
+    "Untitled.md",
+    "01 DHBW Praxisphasen/3. Praxisphase/ix/Erweiterung für Gradle Version.md",
+    "00 Development/To Do Dev/30-Tage-Plan.md",
+    "01 DHBW Praxisphasen/3. Praxisphase/ix/img",
+    "01 DHBW Praxisphasen/Notes.md",
+    "01 DHBW Praxisphasen/1. Praxisphase/Sortieralgorithmen/Bubble Sort - Aufgabe 1.md",
+    "01 DHBW Praxisphasen/1. Praxisphase/Sortieralgorithmen/Anpassen! Bubble Sort VS Quick Sort VS Merge Sort.md",
+    "01 DHBW Praxisphasen/1. Praxisphase/Sortieralgorithmen/Merge Sort - Aufgabe 3.md",
+    "01 DHBW Praxisphasen/1. Praxisphase/Sortieralgorithmen/Quick Sort - Aufgabe 2.md",
+    "01 DHBW Praxisphasen/1. Praxisphase/Sortieralgorithmen/Quick Sort mit Array.md",
+    "01 DHBW Praxisphasen/1. Praxisphase/Threads/Thread.md",
+    "01 DHBW Praxisphasen/1. Praxisphase/Begriffe - 1. Praxisphase.md",
+    "01 DHBW Praxisphasen/1. Praxisphase/Threads/Thread - Aufgaben.md",
+    "01 DHBW Praxisphasen/1. Praxisphase/Threads/Producer-Consumer-Lösung mit Threads in Java.md",
+    "01 DHBW Praxisphasen/1. Praxisphase/Threads/Aufzug Aufgabe (Multithreading).md",
+    "01 DHBW Praxisphasen/3. Praxisphase/Qualitätsmanagement bei ELO.md",
+    "99 R",
+    "08 R",
+    "07 Kitchen Nightmares/Kljukusa - mala tepsija.md",
+    "01 DHBW Praxisphasen/3. Praxisphase/ix/Gradle Installation.md",
+    "01 DHBW Praxisphasen/3. Praxisphase/DevOps & Cloud/- 3. Praxisphase Agenda -.md",
+    "01 DHBW Praxisphasen/3. Praxisphase/DevOps & Cloud/Img",
+    "01 DHBW Praxisphasen/3. Praxisphase/DevOps & Cloud/Mein ELO starten.md",
+    "01 DHBW Praxisphasen/3. Praxisphase/DevOps & Cloud/3. PP Ticket 3.md",
+    "01 DHBW Praxisphasen/3. Praxisphase/DevOps & Cloud/3. PP Ticket 1.md",
+    "01 DHBW Praxisphasen/3. Praxisphase/DevOps & Cloud/3. PP Einrichtung.md",
+    "01 DHBW Praxisphasen/3. Praxisphase/DevOps & Cloud",
+    "01 DHBW Praxisphasen/3. Praxisphase/ix",
+    "00 Development/Vue 3/Projects/syntax-trail/Sprachen",
+    "00 Development/Vue 3/Projects/syntax-trail",
+    "00 Development/Shell Script",
+    "00 Development/GitLab",
+    "Untitled.canvas",
+    "04 Images/Untitled 1.canvas",
+    "04 Images/Untitled.canvas"
+  ]
+}

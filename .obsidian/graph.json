@@ -1,0 +1,205 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"DHBW Theoriephasen/2. Theoriephase/Fortgeschrittene Programmierung\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6065110
+      }
+    },
+    {
+      "query": "path:\"DHBW Theoriephasen/2. Theoriephase/Systemanalyse und -entwurf\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14938152
+      }
+    },
+    {
+      "query": "path:\"DHBW Praxisphasen/1. Praxisphase\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7420687
+      }
+    },
+    {
+      "query": "path:\"DHBW Theoriephasen/2. Theoriephase/Algorithmen und Datenstrukturen\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"DHBW Theoriephasen/2. Theoriephase/Technik der Finanzbuchführung\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16746496
+      }
+    },
+    {
+      "query": "path:\"DHBW Theoriephasen/2. Theoriephase/Kommunikations- und Betriebssysteme\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 65322
+      }
+    },
+    {
+      "query": "path:\"DHBW Theoriephasen/2. Theoriephase/Unix Linux\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1712639
+      }
+    },
+    {
+      "query": "path:\"DHBW Theoriephasen/2. Theoriephase/Kosten- und Leistungsrechnung\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:\"02 DHBW Theoriephasen/1. Theoriephase/Wirtschaftsinformatik\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "path:\"01 DHBW Praxisphasen/2. Praxisphase\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"00 Development/Vue 3/Projects/dev-vista\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"00 Development/Vue 3/Projects\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"00 Development/Vue 3/Vue.js\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"00 Development/GitHub\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:\"05 Online Courses\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:\"02 DHBW Theoriephasen/3. Theoriephase/Einführung DLM\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:\"02 DHBW Theoriephasen/3. Theoriephase/Datenbanken I\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8175764
+      }
+    },
+    {
+      "query": "path:\"01 DHBW Praxisphasen/3. Praxisphase\" path:",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
+      }
+    },
+    {
+      "query": "path:\"02 DHBW Theoriephasen/3. Theoriephase/Software Ergonomie\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12018274
+      }
+    },
+    {
+      "query": "path:\"02 DHBW Theoriephasen/3. Theoriephase/Teamarbeit Englisch\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1996392
+      }
+    },
+    {
+      "query": "path:\"00 Development/GitLab\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11957547
+      }
+    },
+    {
+      "query": "path:\"01 DHBW Praxisphasen/3. Praxisphase\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5603037
+      }
+    },
+    {
+      "query": "path:\"02 DHBW Theoriephasen/3. Theoriephase/Service Operation Management und Preisgestaltung\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14502731
+      }
+    },
+    {
+      "query": "path:\"00 Development/Shell Script\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395026
+      }
+    },
+    {
+      "query": "path:\"00 Development/Docker\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1608418
+      }
+    },
+    {
+      "query": "path:\"02 DHBW Theoriephasen/3. Theoriephase/Mikro- und Makroökonomik\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10664486
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.255208333333333,
+  "repelStrength": 9.0625,
+  "linkStrength": 1,
+  "linkDistance": 233,
+  "scale": 0.13465061998371458,
+  "close": false
+}
